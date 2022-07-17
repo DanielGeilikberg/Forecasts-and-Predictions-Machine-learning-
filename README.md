@@ -1,4 +1,4 @@
-# Forecasts-and-Predictions:Machine-learning
+# Forecasts-and-Predictions: Machine-learning
 A Yandex project
 
 <b> The repository contains: </b>
